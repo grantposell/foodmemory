@@ -1,0 +1,28 @@
+.navbar {
+    width: 100%;
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    background-color: #026400;
+    
+}
+
+.navbar ul {
+    width:100%;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 26px 0;
+    width: 33.3%;
+    text-align: center;
+}
+
+.navbar a {
+  text-decoration:none;
+  color: #555555;
+  text-shadow: black;
+}

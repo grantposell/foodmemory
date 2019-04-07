@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "pizza",
+        "image":"../images/pizza.jpg",
+        "guessed":false
+    },
+    {
+        "id": 2,
+        "name": "burger",
+        "image":"../images/burger.jpg",
+        "guessed":false
+    },
+    {
+        "id": 3,
+        "name": "hotdog",
+        "image":"../images/hotdog.jpg",
+        "guessed":false
+    },
+    {
+        "id": 4,
+        "name": "tacos",
+        "image":"../images/tacos.jpg",
+        "guessed":false
+    },
+    {
+        "id": 5,
+        "name": "pasta",
+        "image":"../images/pasta.jpg",
+        "guessed":false
+    },
+    {
+        "id": 6,
+        "name": "fruitsalad",
+        "image":"../images/fruitsalad.jpg",
+        "guessed":false
+    },
+    {
+        "id": 7,
+        "name": "sushi",
+        "image":"../images/sushi.jpg",
+        "guessed":false
+    },
+    {
+        "id": 8,
+        "name": "panini",
+        "image":"../images/panini.jpg",
+        "guessed":false
+    },
+    {
+        "id": 9,
+        "name": "soup",
+        "image":"../images/soup.jpg",
+        "guessed":false
+    },
+    {
+        "id": 10,
+        "name": "icecream",
+        "image":"../images/icecream.jpg",
+        "guessed":false
+    },
+    {
+        "id": 11,
+        "name": "coffee",
+        "image":"../images/coffee.jpg",
+        "guessed":false
+    },
+    {
+        "id": 12,
+        "name": "pie",
+        "image":"../images/pie.jpg",
+        "guessed":false
+    }
+]
+
