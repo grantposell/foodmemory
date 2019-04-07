@@ -24,7 +24,7 @@ class Navbar extends Component {
             <nav className="navbar">
                 <ul>
                     <li>               
-                        <a className="brand" href=" https://grantposell.github.io/react-memory-game/"><Title>Food Memory Game</Title></a>
+                        <a className="brand" href=" https://modest-leavitt-ad3dd2.netlify.com/"><Title>Food Memory Game</Title></a>
                     </li>    
                     <li>
                         <PlayMessage 
